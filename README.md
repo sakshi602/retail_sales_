@@ -1,2 +1,33 @@
-# retail_sales_
-Retail Sales Forecasting (ONS, UK) – Analyzed 10MB+ of UK retail sales index data, performed exploratory time-series analysis with data cleaning and visualization, applied ARIMA  models to forecast sales , and developed an interactive Power BI dashboard highlighting seasonal peaks, in online sales, and growth opportunities in household goods.
+# Retail Sales Forecasting (ONS, UK)
+
+This project analyzes 10MB+ of retail sales index data from the UK Office for National Statistics (ONS) to uncover key retail trends, forecast future performance, and communicate insights through visualizations and dashboards.
+
+📊 Project Overview
+
+Notebook 1 – Data Cleaning & EDA: Checked for null values, cleaned the dataset, and created exploratory graphs to understand sales behavior across time and categories.
+
+Notebook 2 – Forecasting Models: Applied ARIMA and Prophet models to forecast sales performance through 2026.
+
+Built an interactive Power BI dashboard for storytelling and business insights.
+
+📓 Notebooks
+
+📘 Data Cleaning & EDA Notebook
+
+📘 Forecasting Models Notebook
+
+🔍 Key Findings
+
+Strong seasonal peaks around the holiday season.
+
+Post-pandemic recovery is clear in online sales.
+
+Long-term growth opportunities in household goods.
+
+🛠 Tools & Technologies
+
+Python: Pandas, Matplotlib, Seaborn, Statsmodels, Prophet
+
+Power BI: Dashboarding & visualization
+
+GitHub: Version control and project sharing
