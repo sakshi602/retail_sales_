@@ -31,3 +31,13 @@ Python: Pandas, Matplotlib, Seaborn, Statsmodels, Prophet
 Power BI: Dashboarding & visualization
 
 GitHub: Version control and project sharing
+
+## 📂 Repository Structure
+Retail-Sales-Forecasting-UK/
+│── data/ # (optional, if dataset is small enough to share)
+│── notebooks/
+│ └── 01_cleaning_and_eda.ipynb
+│ └── 02_forecasting_models.ipynb
+│── dashboard/ # Power BI files
+│── README.md
+│── requirements.txt
